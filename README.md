@@ -1,8 +1,8 @@
 # Eye Exercise
 
 ## Project Description
-This JavaScript project uses the Mouse event mousemove to bind with the DOM element of an eye ball to the mouse.
-When the user moves the mouse across the screen, the pupil of the eye ball will follow the mouse movement
+This JavaScript project uses the Mouse event mousemove to bind with the DOM element of an eyeball to move the mouse.
+When the user moves the mouse across the screen, the pupil of the eyeball will follow the mouse movement
 
 ### How to Run
 Load the HTML page and move the mouse across the screen.
