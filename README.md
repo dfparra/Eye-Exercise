@@ -8,8 +8,8 @@ When the user moves the mouse across the screen, the pupil of the eyeball will f
 Load the HTML page and move the mouse across the screen.
 
 ### Roadmap of future improvements
-Add a user interface that allows the user to decide how many eyes to add to the screen.
-Add buttons to add and remove the eyes on the screen.
+* Create a button that allows the user to decide how many eyes to add to the screen.
+* Create a button to remove the eyes on the screen.
 
 #### License information
 MIT License
